@@ -1,0 +1,16 @@
+<invoice>
+    <number>123</number>
+    <client>Ivan Ivanov</client>
+    <items>
+        <item>
+            <code>11111</code>
+            <qty>1</qty>
+            <price>100.00</price>
+        </item>
+        <item>
+            <code>2222</code>
+            <qty>5</qty>
+            <price>250.00</price>
+        </item>
+    </items>
+</invoice>
